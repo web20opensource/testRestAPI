@@ -1,0 +1,12 @@
+35
+
+# 35 - Account_Locked
+
+#title           :external.keys
+#description     :This text file is used to store the external keys desired to act on or use.
+#author		 	 :Mario Ruiz <web2.0opensource@gmail.com>
+#date            :09/18/2017
+#version         :1    
+#usage		 	 :Just edit the first line as required. Remove or add as many as external keys You need to act on. 
+#bash_version    :4.4.12(1)-release
+#==============================================================================
