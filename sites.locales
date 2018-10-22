@@ -1,0 +1,10 @@
+USA,EN,MGO USA,ES,MGO
+
+#title           :sites.locales
+#description     :This text file is used to store the combinations of countrie,language, partner required to interact with the REST API from MC.
+#author		 	 :Mario Ruiz <web2.0opensource@gmail.com>
+#date            :09/18/2017
+#version         :1    
+#usage		 	 :Just edit the first line as required. Remove or add as many combinations as you need. 
+#bash_version    :4.4.12(1)-release
+#==============================================================================
